@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "3755057201",
+    "project_id": "dontthrow-757a5",
+    "storage_bucket": "dontthrow-757a5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3755057201:android:724ec62a62e3cd625b3510",
+        "android_client_info": {
+          "package_name": "com.example.dontthrow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXSL3CZqRcn-CJnMQu241sAAEeJ_fNcXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

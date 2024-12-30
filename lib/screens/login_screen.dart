@@ -67,7 +67,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       if (userCredential != null) {
                         // Navigate to the home screen or another appropriate screen
                         // after successful login.
-                        Navigator.pushReplacementNamed(context, '/'); // Assuming '/' is the home route
+                        Navigator.pushReplacementNamed(context, '/home');
                         ScaffoldMessenger.of(context).showSnackBar(
                           const SnackBar(content: Text('Login successful!')),
                         );
